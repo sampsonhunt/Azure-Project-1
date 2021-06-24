@@ -2,11 +2,8 @@
 
 The files in this repository were used to configure the network depicted below.
 
-<<<<<<< HEAD
-`Diagrams/Azure Project Network Diagram.png`
-=======
-![alt text](Diagrams/Azure Project Network Diagram.png?raw=true)
->>>>>>> 9d4a8db22ad536338dcbe6186b6b3f4ffae14b2e
+![alt text](Diagrams/Azure_Project_Network_Diagram.png?raw=true)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file, such as `filebeat-playbook.yml` or `metricbeat-playbook.yml` may be used to install only certain pieces of it, such as Filebeat or Metricbeat respectively.
 
